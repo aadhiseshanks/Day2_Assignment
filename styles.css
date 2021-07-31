@@ -1,0 +1,19 @@
+h1{
+    background-color: green;
+    font-style: italic;
+    color:white;
+    text-align: center;
+}
+
+img{
+	width:50%;
+	height:30%;
+}
+
+p{
+	display:flex;
+	font-size:50px;
+	font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+	padding-bottom: 250px;
+}	
